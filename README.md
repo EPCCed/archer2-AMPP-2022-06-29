@@ -40,11 +40,15 @@ They are also required to abide by the [ARCHER2 Code of Conduct](https://www.arc
 
 <h3>Timetable (all times are in British Summer Time)</h3>
 
+<p><blockquote>Although the start and end times will be as indicated below, this is a draft timetable based on
+a previous run of the course and the details may change for this run.
+study. </blockquote></p>
+
 <p><blockquote>Unless otherwise indicated all material is Copyright
 &copy; EPCC, The University of Edinburgh, and is only made available
 for private study. </blockquote></p>
 
-<h4>Day 1: Wednesday 14th July</h4>
+<h4>Day 1: Wednesday 29th June</h4>
 
  *   09:30 - 09:45 <a href="slides/L00-ARCHER2-PTC-Intro.pdf">ARCHER2 and PRACE training</a>
  *   09:45 - 10:15 <a href="https://b.socrative.com/login/student/">MPI Quiz</a> ("Room Name" is: **HPCQUIZ**)
@@ -57,7 +61,7 @@ for private study. </blockquote></p>
  *   16:00 - 17:00 <a href="slides/AMPP-Advanced-Collectives.pdf">Collectives</a>
  *   17:00 CLOSE
 
-<h4>Day 2: Friday 16th July</h4>
+<h4>Day 2: Thursday 30th June</h4>
 
  *   09:30 - 11:00 <a href="slides/L06-MPIandOpenMP.pdf">MPI + OpenMP (i)<a>
  *   11:00 - 11:30 Coffee
