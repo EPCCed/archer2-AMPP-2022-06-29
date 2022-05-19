@@ -4,11 +4,11 @@ width="133" height="100">
 
 <br /><br /><br /><br /><br />
 
-# ARCHER 2 Advanced MPI course (July 2021)
+# ARCHER 2 Advanced MPI course (June 2022)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-<h3>David Henty EPCC: 14 and 16 July 2021 09:30 - 17:00 BST, online</h3>
+<h3>David Henty EPCC: 29-30 June 2022 09:30 - 17:00 BST, online</h3>
 
 This course is aimed at programmers seeking to deepen their
 understanding of MPI and explore some of its more recent and advanced
