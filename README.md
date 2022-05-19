@@ -42,7 +42,7 @@ They are also required to abide by the [ARCHER2 Code of Conduct](https://www.arc
 
 <p><blockquote>Although the start and end times will be as indicated below, this is a draft timetable based on
 a previous run of the course and the details may change for this run.
-study. </blockquote></p>
+</blockquote></p>
 
 <p><blockquote>Unless otherwise indicated all material is Copyright
 &copy; EPCC, The University of Edinburgh, and is only made available
