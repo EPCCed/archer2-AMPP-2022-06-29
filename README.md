@@ -50,25 +50,25 @@ for private study. </blockquote></p>
 
 <h4>Day 1: Wednesday 29th June</h4>
 
- *   09:30 - 09:45 <a href="slides/L00-ARCHER2-PTC-Intro.pdf">ARCHER2 and PRACE training</a>
+ *   09:30 - 09:45 <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/master/slides/L00-ARCHER2-PTC-Intro.pdf">ARCHER2 and PRACE training</a>
  *   09:45 - 10:15 <a href="https://b.socrative.com/login/student/">MPI Quiz</a> ("Room Name" is: **HPCQUIZ**)
- *   10:15 - 11:00 <a href="slides/MPI-Evolution.pdf">MPI History</a>
+ *   10:15 - 11:00 <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/master/slides/MPI-Evolution.pdf">MPI History</a>
  *   11:00 - 11:30 Coffee
- *   11:30 - 13:00 <a href="slides/MPI-Internals.pdf">Point-to-point Performance</a>
+ *   11:30 - 13:00 <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/master/slides/MPI-Internals.pdf">Point-to-point Performance</a>
  *   13:00 - 14:00 Lunch
- *   14:00 - 15:30 <a href="slides/MPI-Optimisation-ARCHER2.pdf">MPI Optimisations</a>
+ *   14:00 - 15:30 <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/master/slides/MPI-Optimisation-ARCHER2.pdf">MPI Optimisations</a>
  *   15:30 - 16:00 Coffee
- *   16:00 - 17:00 <a href="slides/AMPP-Advanced-Collectives.pdf">Collectives</a>
+ *   16:00 - 17:00 <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/master/slides/AMPP-Advanced-Collectives.pdf">Collectives</a>
  *   17:00 CLOSE
 
 <h4>Day 2: Thursday 30th June</h4>
 
- *   09:30 - 11:00 <a href="slides/L06-MPIandOpenMP.pdf">MPI + OpenMP (i)<a>
+ *   09:30 - 11:00 <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/master/slides/L06-MPIandOpenMP.pdf">MPI + OpenMP (i)<a>
  *   11:00 - 11:30 Coffee
  *   11:30 - 13:00 MPI + OpenMP (ii) - *same slide deck as above*
  *   13:00 - 14:00 Lunch
- *   14:00 - 14:30 <a href="slides/IntroRMA.pdf">RMA Access in MPI</a>
- *   14:30 - 15:30 <a href="slides/SharedMemoryRMA.pdf">New MPI shared-memory model</a>
+ *   14:00 - 14:30 <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/master/slides/IntroRMA.pdf">RMA Access in MPI</a>
+ *   14:30 - 15:30 <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/master/slides/SharedMemoryRMA.pdf">New MPI shared-memory model</a>
  *   15:30 - 16:00 Coffee
  *   16:00 - 17:00 Finish Exercises
  *   17:00 CLOSE
