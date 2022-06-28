@@ -88,7 +88,7 @@ The reserved queue for today is called `ta073_778012`. To use this queue, change
 #SBATCH --reservation=ta073_778012
 ````
 
- * <a href="exercises/ARCHER2-pingpong.pdf">Ping-pong exercise sheet</a>
+ * <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/main/exercises/ARCHER2-pingpong.pdf">Ping-pong exercise sheet</a>
  * <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/main/exercises/pingpong.tar">Ping-pong source code</a>
    
  * Description of 3D halo-swapping benchmark is in this <a href="https://github.com/davidhenty/halobench/">README</a>
