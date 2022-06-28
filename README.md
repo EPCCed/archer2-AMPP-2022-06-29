@@ -100,7 +100,7 @@ The reserved queue for today is called `ta073_778012`. To use this queue, change
    - run on different numbers of nodes.
  * Note that you will need to change the number of repetitions to get reasonable runtimes: many more for smaller messages, many fewer for larger messages. Each test needs to run for at least a few seconds to give reliable results.
    
- * The collectives exercises are included in <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/main/exercises/collective.tar">this tar file</a>
+ * The collectives exercises are included in <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/master/exercises/collective.tar">this tar file</a>
    - instructions are included as comments at the top of each file
    - `mpigather.c` and `mpigather.f90` illustrate using vectors for gather operations;
    - `mpigather2d.c` and `mpigather2d.f90` extend to gathering a 2D array as described in the lectures;
@@ -116,12 +116,12 @@ The reserved queue for today is called `ta073_778018`. To use this queue, change
 ````
 
  * <a href="exercises/traffic-advmpi.pdf">Traffic modeling exercise sheet</a>
- * <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/main/exercises/traffic.tar">Traffic model source code and solutions (MPI / OpenMP)</a>
+ * <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/master/exercises/traffic.tar">Traffic model source code and solutions (MPI / OpenMP)</a>
    - note that the OpenMP Makefiles are not properly configured for ARCHER2. To
      compile correctly you need to change the following flags:
    - for the OpenMP C version: `CFLAGS= -O3 -fopenmp`
    - for the OpenMP Fortran version: `FFLAGS= -O3 -homp`
-  * <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/main/exercises/traffic-RMA.tar">Traffic model source code and solutions (MPI RMA)</a>
+  * <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/master/exercises/traffic-RMA.tar">Traffic model source code and solutions (MPI RMA)</a>
 
 ---
 
