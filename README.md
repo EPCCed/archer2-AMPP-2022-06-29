@@ -57,6 +57,7 @@ for private study. </blockquote></p>
  *   11:30 - 13:00 <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/master/slides/MPI-Internals.pdf">Point-to-point Performance</a>
  *   13:00 - 14:00 Lunch
  *   14:00 - 15:30 <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/master/slides/MPI-Optimisation-ARCHER2.pdf">MPI Optimisations</a>
+   *   For the associated exercise see  <a href="https://github.com/davidhenty/halobench.git">https://github.com/davidhenty/halobench.git</a>
  *   15:30 - 16:00 Coffee
  *   16:00 - 17:00 <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/master/slides/AMPP-Advanced-Collectives.pdf">Collectives</a>
  *   17:00 CLOSE
