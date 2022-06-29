@@ -115,7 +115,7 @@ The reserved queue for today is called `ta073_778018`. To use this queue, change
 #SBATCH --reservation=ta073_778018
 ````
 
- * <a href="exercises/traffic-advmpi.pdf">Traffic modeling exercise sheet</a>
+ * <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/master/exercises/traffic-advmpi.pdf">Traffic modeling exercise sheet</a>
  * <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/master/exercises/traffic.tar">Traffic model source code and solutions (MPI / OpenMP)</a>
   * <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/master/exercises/traffic-RMA.tar">Traffic model source code and solutions (MPI RMA)</a>
 
