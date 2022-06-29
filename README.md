@@ -117,10 +117,6 @@ The reserved queue for today is called `ta073_778018`. To use this queue, change
 
  * <a href="exercises/traffic-advmpi.pdf">Traffic modeling exercise sheet</a>
  * <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/master/exercises/traffic.tar">Traffic model source code and solutions (MPI / OpenMP)</a>
-   - note that the OpenMP Makefiles are not properly configured for ARCHER2. To
-     compile correctly you need to change the following flags:
-   - for the OpenMP C version: `CFLAGS= -O3 -fopenmp`
-   - for the OpenMP Fortran version: `FFLAGS= -O3 -homp`
   * <a href="https://github.com/EPCCed/archer2-AMPP-2022-06-29/raw/master/exercises/traffic-RMA.tar">Traffic model source code and solutions (MPI RMA)</a>
 
 ---
